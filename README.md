@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 If you're here because I applied for a position and you're curious about what my work looks like, the (publicly visible) projects I'm most proud (as of 2025) of are:
 
-- Using XState state machines to define the WooCommerce [Onboarding UX](https://github.com/woocommerce/woocommerce/blob/2cc45d649f7991751bac8538ce51dd9e1b3d7004/plugins/woocommerce/client/admin/docs/features/core-profiler.md?plain=1), steps, as well as various other [wizard/steps implementations](https://github.com/woocommerce/woocommerce/blob/2cc45d649f7991751bac8538ce51dd9e1b3d7004/plugins/woocommerce/client/admin/client/launch-your-store/hub/sidebar/xstate.tsx#L315-L537).
+- Using XState state machines to define the WooCommerce [Onboarding UX](https://github.com/woocommerce/woocommerce/blob/2cc45d649f7991751bac8538ce51dd9e1b3d7004/plugins/woocommerce/client/admin/docs/features/core-profiler.md?plain=1#L16-L26), steps, as well as various other [wizard/steps implementations](https://github.com/woocommerce/woocommerce/blob/2cc45d649f7991751bac8538ce51dd9e1b3d7004/plugins/woocommerce/client/admin/client/launch-your-store/hub/sidebar/xstate.tsx#L315-L537).
 - Defining and [implementing](https://github.com/woocommerce/woocommerce/pull/34637) the WooCommerce Plugin <--> WooCommerce Mobile App Magic link login flow
 - Creating [Open-Attestation](https://github.com/Open-Attestation/open-attestation) - a cryptographically secure document issuance protocol pre-dating W3C Verifiable Credentials
   - Defining the schema and algorithm for tamper-evident document integrity property and verifying issuer identity
